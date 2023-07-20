@@ -11,6 +11,9 @@ I have based my Earthquake map on all earthquakes over the last seven days.  Thi
 
 To utilise the Earthquake map [Click Here](https://wickedwes78.github.io/leaflet-challenge/)
 
+![image](https://github.com/wickedwes78/leaflet-challenge/assets/127099343/30e50bb5-866e-43d0-8766-a90bd319eac1)
+
+
 An interesting fact about earthquakes is that an earthquake with a negative magnitude is possible.  These earthquakes are detected because of the ground motion and distance, and how sensitive seismographs have become. An earthquake of negative magnitude is a very small earthquake that is not felt by humans.  Further details can be found at the [Seismology Research Centre](https://www.src.com.au/negative-magnitude-earthquakes/).
 
 The negative magnitudes have been included on the map as earthquakes with magnitude of 0 due to them still occuring.
